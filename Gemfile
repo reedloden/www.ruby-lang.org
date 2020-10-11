@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 ruby ENV['CUSTOM_RUBY_VERSION'] || '2.3.1'
 
-gem 'rake',   '~> 10.0'
+gem 'rake',   '~> 12.3'
 gem 'jekyll', '~> 3.0'
 gem 'rouge',  '~> 1.10'
 
